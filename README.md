@@ -1,2 +1,2 @@
 # oisisi2
-opis
+oisisi vjezbe2_druga_sedmica
